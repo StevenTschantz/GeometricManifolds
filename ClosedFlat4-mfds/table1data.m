@@ -1,0 +1,13 @@
+{{Subsuperscript["O", 1, 3], Superscript["E", 0], Superscript["E", 0], 
+  Subscript["C", 1], Superscript["Z", 3], Subscript["C", 1], "1/1/1/1", 1}, 
+ {Subsuperscript["O", 2, 3], Superscript["T", 2], "2222", Subscript["C", 2], 
+  "Z" \[CirclePlus] Subsuperscript["Z", 2, 2], Subscript["C", 2], "2/1/1/2", 
+  4}, {Subsuperscript["O", 3, 3], Superscript["T", 2], "333", 
+  Subscript["C", 3], "Z" \[CirclePlus] Subscript["Z", 3], Subscript["C", 3], 
+  "5/1/2/2", 144}, {Subsuperscript["O", 4, 3], Superscript["T", 2], "442", 
+  Subscript["C", 4], "Z" \[CirclePlus] Subscript["Z", 2], Subscript["C", 4], 
+  "4/1/1/2", 76}, {Subsuperscript["O", 5, 3], Superscript["T", 2], "632", 
+  Subscript["C", 6], "Z", Subscript["C", 6], "6/1/1/4", 169}, 
+ {Subsuperscript["O", 6, 3], Subsuperscript["O", 6, 3], 
+  Subsuperscript["O", 6, 3], Subscript["C", 1], Subsuperscript["Z", 4, 2], 
+  Subsuperscript["C", 2, 2], "3/1/1/4", 19}}

@@ -1,0 +1,11 @@
+{{Subsuperscript["N", 1, 3], Superscript["S", 1], "I", Subscript["C", 2], 
+  Superscript["Z", 2] \[CirclePlus] Subscript["Z", 2], Subscript["C", 2], 
+  Subsuperscript["O", 1, 3], "2/2/1/2", 7}, {Subsuperscript["N", 2, 3], 
+  Superscript["S", 1], "I", Subsuperscript["C", 2, 2], Superscript["Z", 2], 
+  Subscript["C", 2], Subsuperscript["O", 1, 3], "2/2/2/2", 9}, 
+ {Subsuperscript["N", 3, 3], Superscript["K", "2"], "22*", Subscript["C", 2], 
+  "Z" \[CirclePlus] Subsuperscript["Z", 2, 2], Subsuperscript["C", 2, 2], 
+  Subsuperscript["O", 2, 3], "3/2/1/9", 29}, {Subsuperscript["N", 4, 3], 
+  Superscript["K", "2"], "22x", Subscript["C", 2], 
+  "Z" \[CirclePlus] Subscript["Z", 4], Subsuperscript["C", 2, 2], 
+  Subsuperscript["O", 2, 3], "3/2/1/10", 33}}
